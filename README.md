@@ -7,4 +7,5 @@ Veriler, daha iyi bir analiz için Excel'de düzenlenmiştir. Ayrıca, etkileşi
 Ana metrikler arasında nüfusa göre ölüm oranları ve zamanla aşılanma oranları yer alır. [Tableau panelini buradan görüntüleyin](https://public.tableau.com/views/CovidDashboardTutorial_17288466902480/Dashboard1).
 ---
  SQL ,EXCEL , TABLEAU
+---
 ![covidd](https://github.com/user-attachments/assets/09882a23-9570-416b-9cea-59fcaaab8ad3)
