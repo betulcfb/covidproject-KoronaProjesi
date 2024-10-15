@@ -1,0 +1,43 @@
+TANIM 
+
+ENGLISH
+This project analyzes COVID-19 data to explore infection rates, death percentages, and vaccination trends.
+The analysis is conducted using SQL to retrieve and manipulate data from a COVID-19 database, focusing on metrics such as total cases, total deaths, and vaccination coverage.
+
+Key features of this project include:
+- **Data Cleaning and Organization:** Raw data was processed and organized using Excel for more effective analysis.
+- **SQL Analysis:** SQL queries were employed to perform calculations and extract insights regarding infection rates and death percentages across various locations.
+- **Data Visualization:** An interactive Tableau dashboard was created to visualize the findings, making it easier to understand trends and patterns in the data.
+
+Technologies used:
+- **SQL:** For data manipulation and analysis.
+- **Excel:** For data cleaning and organization.
+- **Tableau:** For creating interactive visualizations.
+
+Key metrics analyzed:
+- Death rates per population.
+- Vaccination progress over time.
+
+[View the Tableau dashboard here](https://public.tableau.com/views/CovidDashboardTutorial_17288466902480/Dashboard1).
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+TÜRKÇE
+Bu proje, COVID-19 verilerini analiz ederek enfeksiyon oranları, ölüm yüzdeleri ve aşılanma eğilimlerini incelemektedir. 
+Analiz, COVID-19 veritabanından verileri almak ve işlemek için SQL kullanılarak gerçekleştirilmiş olup, toplam vakalar, toplam ölümler ve aşılanma oranları gibi metriklere odaklanılmıştır.
+
+Projenin ana özellikleri:
+- **Veri Temizleme ve Düzenleme:** Ham veriler, daha etkili bir analiz için Excel kullanılarak işlenmiş ve düzenlenmiştir.
+- **SQL Analizi:** Enfeksiyon oranları ve ölüm yüzdeleri ile ilgili içgörüleri elde etmek için SQL sorguları kullanılmıştır.
+- **Veri Görselleştirme:** Bulguları görselleştirmek için etkileşimli bir Tableau paneli oluşturulmuştur; bu, verilerdeki eğilimleri ve kalıpları anlamayı kolaylaştırır.
+
+Kullanılan teknolojiler:
+- **SQL:** Veri işleme ve analiz için.
+- **Excel:** Veri temizleme ve düzenleme için.
+- **Tableau:** Etkileşimli görselleştirmeler oluşturmak için.
+
+Analiz edilen ana metrikler:
+- Nüfusa göre ölüm oranları.
+- Zamanla aşılanma ilerlemesi.
+
+[Tableau panelini buradan görüntüleyin](https://public.tableau.com/views/CovidDashboardTutorial_17288466902480/Dashboard1).
